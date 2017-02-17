@@ -2,4 +2,4 @@
 
 Collection website
 
-- http://tqcvn.com/home
+- https://doanhkaka.github.io/home/
